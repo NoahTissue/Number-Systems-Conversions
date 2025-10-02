@@ -1,4 +1,5 @@
 Number Systems Conversion Tool
+
 A command-line tool written in Python for converting numbers between hexadecimal, binary, and decimal systems. This script provides an interactive menu for users to select a conversion type and input a number string.
 
 The conversions are performed manually without using Python's built-in base conversion functions (int(), bin(), hex()).
